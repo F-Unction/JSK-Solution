@@ -1,4 +1,4 @@
-//本题没有标程 下为本人自己的程序
+//本题没有官方标程 下为本人自己的程序
 #include <bits/stdc++.h>
 using namespace std;
 const int INF = 0x3f3f3f3f, maxn = 1001;
